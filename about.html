@@ -7,26 +7,9 @@ header-img: "img/about_bk.jpg"
 
 <!-- Language Selector -->
 <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
+    <option value="0" selected> 英文 English </option>
+    <option value="1"> 中文 Chinese </option>
 </select>
-
-<!-- Chinese Version -->
-<div class="zh post-container">
-
-    <!--copied from markdown -->
-    <blockquote><p>道之所在，虽千万人吾往矣<br></p></blockquote>
-
-    <p> 我是张潮力, 目前是马普和波恩大学的一年级博士生，我的研究领域是用x射线星系团去研究宇宙学。
-    </p>
-
-    <p> 我出生在浙江温州，在那里住了12年。 之后，父母把我送到北京读了初中和高中。我于2009年搬到堪培拉，在那里完成了理学学士学位。后来种种机缘巧合，在荷兰的莱顿大学完成了硕士学位。
-    </p>
-
-    <p> 最终要的是，我是一个龙珠Z迷。
-    </p>
-
-</div>
 
 <!-- English Version -->
 <div class="en post-container">
@@ -43,6 +26,23 @@ header-img: "img/about_bk.jpg"
     </p>
 </div>
 
+<!-- Chinese Version -->
+<div class="zh post-container">
+
+    <!--copied from markdown -->
+    <blockquote><p>道之所在 虽千万人 吾往矣<br></p></blockquote>
+
+    <p> 我是张潮力, 目前是马普和波恩大学的一年级博士生，我的研究领域是用x射线星系团去研究宇宙学。
+    </p>
+
+    <p> 我出生在浙江温州，在那里住了12年。 之后，父母把我送到北京读了初中和高中。我于2009年搬到堪培拉，在那里完成了理学学士学位。后来种种机缘巧合，在荷兰的莱顿大学完成了硕士学位。
+    </p>
+
+    <p> 最终要的是，我是一个龙珠Z迷。
+    </p>
+
+</div>
+
 
 
 <!-- Handle Language Change -->
@@ -57,21 +57,21 @@ header-img: "img/about_bk.jpg"
     function _render(){
         var _hash = window.location.hash;
         // en
-        if(_hash == "#en"){
-            $select.selectedIndex = 1;
+        if(_hash == "#zh"){
+            $select.selectedIndex = 0;
             $en.style.display = "block";
             $zh.style.display = "none";
-        // zh by default
+        // en by default
         }else{
             // not trigger onChange, otherwise cause a loop call.
-            $select.selectedIndex = 0;
+            $select.selectedIndex = 1;
             $zh.style.display = "block";
             $en.style.display = "none";
         }
     }
     // handle select change
     function onLanChange(index){
-        if(index == 0){
+        if(index == 1){
             window.location.hash = "#zh"
         }else{
             window.location.hash = "#en"
@@ -80,6 +80,7 @@ header-img: "img/about_bk.jpg"
     // init
     _render();
 </script>
+
 
 
 
