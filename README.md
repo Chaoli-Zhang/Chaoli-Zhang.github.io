@@ -1,6 +1,6 @@
 # BY Blog
 
-> 下面是博客的搭建教程，这个教程修改自 [Qiubaiying](https://github.com/Chaoli-Zhang/chaoli-zhang.github.io)
+> 下面是博客的搭建教程，这个教程修改自 [Qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)
 
 ## 使用
 
