@@ -1,6 +1,6 @@
 # BY Blog
 
-> 下面是博客的搭建教程，这个教程修改自 [Qiubaiying](https://qiubaiying/qiubaiying.github.io) 。
+> 下面是博客的搭建教程，这个教程修改自 [Qiubaiying](https://github.com/Chaoli-Zhang/chaoli-zhang.github.io)
 
 ## 使用
 
@@ -76,7 +76,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
+![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme_side.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
