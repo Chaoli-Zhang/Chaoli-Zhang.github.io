@@ -14,7 +14,7 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Hello! I am Chaoli Zhang, currently a Ph.D. student
 (in astrophysics) at Max Planck Institute for Radio Astronomy (MPIfR) and University
 of Bonn, Germany. "
-sidebar-avatar: img/Sidebar-Profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/Profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

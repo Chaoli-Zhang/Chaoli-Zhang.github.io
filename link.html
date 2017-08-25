@@ -1,0 +1,93 @@
+---
+layout: page
+title: "Links"
+description: ""
+header-img: "img/Link-bg-Tree.jpg"
+---
+
+<!-- Language Selector -->
+<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 英文 English </option>
+    <option value="1"> 中文 Chinese </option>
+</select> -->
+
+<!-- English Version -->
+<div class="en post-container">
+    <!--copied from markdown -->
+    <blockquote><p><br></p></blockquote>
+
+    <p> I am Chaoli Zhang, currently a PhD student at university of Bonn, working
+        under the supervision of <a href="https://astro.uni-bonn.de/en/research/dark-energy-team">Prof. Thomas Reiprich</a> on galaxy clusters in x-rays.
+    </p>
+
+    <p> I completed my MSc at Leiden University where I worked with
+        <a href="http://home.strw.leidenuniv.nl/~rottgering/Site/Welcome.html">Prof. Huub Rottgering</a> on large scale structure around high
+        redshift radio galaxy (z>2).
+    </p>
+
+</div>
+
+
+
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+    // handle render
+    function _render(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#zh"){
+            $select.selectedIndex = 0;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        // en by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 1;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+    // handle select change
+    function onLanChange(index){
+        if(index == 1){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
+    // init
+    _render();
+</script>
+
+
+
+{% if site.disqus_username %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://chaolizhang-org.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
