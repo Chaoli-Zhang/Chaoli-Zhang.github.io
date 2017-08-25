@@ -76,7 +76,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://github.com/Chaoli-Zhang/chaoli-zhang.github.io/blob/master/img/readme_side.png)
+![](https://github.com/Chaoli-Zhang/chaoli-zhang.github.io/blob/master/img/Readme_md.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
