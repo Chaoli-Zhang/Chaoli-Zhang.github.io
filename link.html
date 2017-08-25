@@ -1,0 +1,103 @@
+---
+layout: page
+title: "link"
+description: ""
+header-img: "img/Link-bg-Tree.jpg"
+---
+
+<!-- Language Selector -->
+<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 英文 English </option>
+    <option value="1"> 中文 Chinese </option>
+</select> -->
+
+<!-- English Version -->
+<div class="en post-container">
+    <!--copied from markdown -->
+    <blockquote><p>Links<br></p></blockquote>
+
+    <p>
+        Still working in progress !!!
+    </p>
+
+</div>
+
+
+<!-- Chinese Version -->
+<!-- <div class="zh post-container">
+    <!--copied from markdown -->
+    <!-- <blockquote><p>道之所在 虽千万人 吾往矣<br></p></blockquote> -->
+
+<!--     <p> 我是张潮力, 目前是马普和波恩大学的一年级博士生，我的研究领域是用x射线星系团去研究宇宙学。
+    </p>
+
+    <p> 我出生在浙江温州，在那里住了12年。 之后，父母把我送到北京读了初中和高中。我于2009年搬到堪培拉，在那里完成了理学学士学位。后来种种机缘巧合，在荷兰的莱顿大学完成了硕士学位。
+    </p>
+
+    <p> 最终要的是，我是一个龙珠Z迷。
+    </p> -->
+<!-- </div> -->
+
+
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+    // handle render
+    function _render(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#zh"){
+            $select.selectedIndex = 0;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        // en by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 1;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+    // handle select change
+    function onLanChange(index){
+        if(index == 1){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
+    // init
+    _render();
+</script>
+
+
+
+{% if site.disqus_username %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://chaolizhang-org.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
