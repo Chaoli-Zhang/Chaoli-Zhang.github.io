@@ -83,4 +83,13 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
+friends: [
+    {
+        title: " Luly",
+        href: "http://luly42.leanote.com/"
+    },{
+        title: "Syrtis",
+        href: "http://luly.lamost.org/blog/"
+    }
+]
 
