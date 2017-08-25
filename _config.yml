@@ -85,10 +85,7 @@ service-worker: true
 
 friends: [
     {
-        title: " Luly",
-        href: "http://luly42.leanote.com/"
-    },{
-        title: "Syrtis",
+        title: " Luly and Syrtis",
         href: "http://luly.lamost.org/blog/"
     }
 ]
