@@ -1,0 +1,150 @@
+---
+layout: page
+title: "link"
+description: ""
+header-img: "img/About-bg-DBZ.jpg"
+---
+
+<!-- Language Selector -->
+<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 英文 English </option>
+    <option value="1"> 中文 Chinese </option>
+</select> -->
+
+<!-- English Version -->
+<div class="en post-container">
+    <!--copied from markdown -->
+    <blockquote><p>道之所在 虽千万人 吾往矣<br></p></blockquote>
+
+    <p> I am Chaoli Zhang, currently a PhD student at university of Bonn, working
+        under the supervision of <a href="https://astro.uni-bonn.de/en/research/dark-energy-team">Prof. Thomas Reiprich</a> on galaxy clusters in x-rays.
+    </p>
+
+    <p> I completed my MSc at Leiden University where I worked with
+        <a href="http://home.strw.leidenuniv.nl/~rottgering/Site/Welcome.html">Prof. Huub Rottgering</a> on large scale structure around high
+        redshift radio galaxy (z>2).
+    </p>
+
+    <p> Before coming to Leiden, I was an undergraduate student at
+        Australian National University (ANU) where I did my B.Sc.
+        in mathematics/astrophysics under the guidance of
+         <a href="http://www.mso.anu.edu.au/~geoff/">Prof. Geoff Bicknell</a>
+         and
+         <a href="http://www.mso.anu.edu.au/~jerjen/">Prof. Helmut Jerjen</a>.
+    </p>
+
+    <p> After finishing my master studies, I took a gap year (well, technically speaking, it's one and half year) to work at
+    the Kavli Institute for Astronomy and Astrophysics in Peking University
+    (supervisor: <a href="http://astro-expat.info/">Prof. Richard de Grijs</a>)
+    as well as in the Shanghai Observatory (supervisors: <a href="http://202.127.29.4/chenli/">Prof. Li Chen</a>
+    and <a href="http://cluster.shao.ac.cn/wiki/index.php/Staff_Members">Prof. Zhengyi Shao</a>).
+    </p>
+
+    <hr>
+    <hr>
+
+    <p>
+    [Interests]:
+    My interests are broad, ranging from economics to business,
+    from programming to Japanese animations (e.g. <a href="http://saiyanwatch.com/dragon-ball-z">Dragon Ball Z</a>),
+    from the frontier of science and technology to hacker culture and,
+    of course, investment.
+    </p>
+
+    <p>
+    [Music]:
+    New-Age,
+    Light,
+    Linkin Park,
+    <a href="https://www.youtube.com/watch?v=ePgSHWblYeI">S.E.N.S.</a>,
+    <a href="https://www.youtube.com/watch?v=IKIILfZP41s">新雅乐</a>
+    </p>
+    <p>
+    [Sport]: Standing-Still (站桩)， Jogging
+    </p>
+
+    <p>
+    [Favorite character]: Vegeta, the prince of all Saiyan
+    <img src="/img/About-vegeta.gif" alt="Loading" title="Loading" />
+    </p>
+</div>
+
+
+<!-- Chinese Version -->
+<!-- <div class="zh post-container">
+    <!--copied from markdown -->
+    <!-- <blockquote><p>道之所在 虽千万人 吾往矣<br></p></blockquote> -->
+
+<!--     <p> 我是张潮力, 目前是马普和波恩大学的一年级博士生，我的研究领域是用x射线星系团去研究宇宙学。
+    </p>
+
+    <p> 我出生在浙江温州，在那里住了12年。 之后，父母把我送到北京读了初中和高中。我于2009年搬到堪培拉，在那里完成了理学学士学位。后来种种机缘巧合，在荷兰的莱顿大学完成了硕士学位。
+    </p>
+
+    <p> 最终要的是，我是一个龙珠Z迷。
+    </p> -->
+<!-- </div> -->
+
+
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+    // handle render
+    function _render(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#zh"){
+            $select.selectedIndex = 0;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        // en by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 1;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+    // handle select change
+    function onLanChange(index){
+        if(index == 1){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
+    // init
+    _render();
+</script>
+
+
+
+{% if site.disqus_username %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://chaolizhang-org.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
