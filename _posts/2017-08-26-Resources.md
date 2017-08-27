@@ -1,6 +1,6 @@
 ---
 layout:     post                                    # 使用的布局（不需要改）
-title:      Learning Notes        # 标题
+title:      Learning Resources        # 标题
 subtitle:   Useful links to various learning topics            #副标题
 date:       2017-08-27                              # 时间
 author:     Chaoli Zhang                            # 作者
@@ -23,3 +23,7 @@ A short crash course on computer science by Carrie Anne, videos can be found her
 ---
 ### HTML
 A short introductory course on HTML by EJ, videos can be found here: [HTML Introductory Course](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
+
+My study notes, if you're interested in having a look, can be found [ HTML Learning Notes]({% post_url 2017-08-26-HTML_learn %}).
+
+---
