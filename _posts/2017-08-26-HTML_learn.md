@@ -1,6 +1,6 @@
 ---
 layout:     post                                    # 使用的布局（不需要改）
-title:      HTML Learning Notes        # 标题
+title:      HTML Notes        # 标题
 subtitle:   HTML learning from EJ            #副标题
 date:       2017-08-27                              # 时间
 author:     Chaoli Zhang                            # 作者
