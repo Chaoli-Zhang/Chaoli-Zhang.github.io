@@ -1,6 +1,6 @@
 ---
 layout:     post                                    # 使用的布局（不需要改）
-title:      HTML Notes        # 标题
+title:      Website develop (HTML)        # 标题
 subtitle:   HTML learning from EJ            #副标题
 date:       2017-08-27                              # 时间
 author:     Chaoli Zhang                            # 作者
@@ -31,7 +31,6 @@ A short introductory course on HTML by EJ, videos can be found here: [HTML Intro
 </head>
 
 <body>
-
 <h1> The fish website </h1>
 
 <p> Welcome to the website </p>
@@ -196,7 +195,7 @@ Space in &nbsp between
 ```
 
 
-##### Tutorial 10 - 17
+##### Tutorial 10 - 18 Forms
 - one line text box
     1. box: `<input type="text" name="">`
     1. add label to text box: `<label for='firstname'> first name</label>`
@@ -273,4 +272,94 @@ Space in &nbsp between
 </body>
 </html>
 ```
+
+##### Tutorial 19 - Attribute
+Attribute
+
+- `<p class="test"></p>`
+- `<label for='name'></label>`
+
+
+##### Tutorial 20 - Meta element
+Meta element shows the information when you google searched it
+**Number limits: 140 characters**
+
+- name="discription"
+- name="keywords": no longer used on Google
+- http-equiv="author"
+- http-equiv="content-language"
+
+`<meta name="discription"content"fish, ocean, aqaurium" charset="utf-8">`
+
+##### Tutorial 21 - Escape characters
+
+- space:`&nbsp`
+- . > :`&gt`
+- < :`&lt`
+- ? :`&#63`
+
+##### Tutorial 22 - Bold, strong, italic and em
+
+- Bold: <b> Bold element</b> `<b> Bold element</b>`
+- Strong: <strong>Strong element</strong> `<strong>Strong element</strong>`
+- Italic: <i>italic element</i> `<i>italic element</i>`
+- em: <em>em element</em> `<em>em element</em>`
+
+##### Tutorial 23 - iframe element
+
+```html
+<iframe frameborder='1' width="500" height="500" src="1st.html" name="1st" id="1st" ></iframe>
+
+<a href="second.html" target="1st">Switch to new documents</a>
+
+```
+
+<iframe frameborder='1' width="500" height="500" src="1st.html" name="1st" id="1st" ></iframe>
+
+<a href="second.html" target="1st">Switch to new documents</a>
+
+##### Tutorial 24 - sup and sub elements
+
+- sup: 23<sup>rd</sup> `23<sup>rd</sup>`
+- sub: H<sub>2</sub>O `H<sub>2</sub>O`
+
+##### Tutorial 25 - title and alt attributes
+
+- title: text shown when you move your curse to the image
+- alt: when your image can not be shown for some reason, then a text in alt is shown instead.
+
+<img src="/img/Tag-bg-hacker.jpg?raw=true" title="title" alt="Hackerimage">
+
+##### Tutorial 26 -29 - audio/videos element
+
+- add audio: mp3
+    + `<audio controls autoplay>`
+    + `<audio controls autoplay loop>`
+    + `<audio controls autoplay draggable="true">`
+- add video: mp4
+
+```html
+<audio controls="audiocontrols">
+    <source src="some.mp3" type="">
+</audio>
+
+<video width="500" height="360" controls>
+    <source src="some.mp4" type="">
+</video>
+```
+
+<audio controls="audiocontrols">
+    <source src="some.mp3" type="">
+</audio>
+
+<video width="500" height="360" controls>
+    <source src="some.mp4" type="">
+</video>
+
+
+This completes the whole series. Awesome work!
+
+
+
+
 
