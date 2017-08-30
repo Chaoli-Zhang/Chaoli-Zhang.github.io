@@ -1,0 +1,43 @@
+body {
+    color: green;
+    font-family: Verdana, Arial, Geneva, Arial Black ;
+    font-weight: lighter;
+}
+.cyan {
+    color: cyan;
+}
+.underline {
+    text-decoration: underline, overline;
+}
+p.blue {
+    color:blue;
+    font-size: 25px;
+    background-color: purple;
+    padding: 20px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    margin: 20px;
+
+}
+p.red {
+    color:red;
+    font-size: 25px;
+
+}
+
+.imagec {
+
+    display: block;
+    margin-left: 5px;
+    margin-right: auto;
+
+}
+
+#myownidstyle {
+
+    display: block;
+    margin-left: 5px;
+    margin-right: auto;
+
+}
