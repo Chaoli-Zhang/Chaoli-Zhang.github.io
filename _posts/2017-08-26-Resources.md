@@ -18,7 +18,11 @@ Happy learning and studying!
 
 ---
 ### Computer Science
-A short crash course on computer science by Carrie Anne, videos can be found here: [crash course on computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+A short crash course on computer science by Carrie Anne, videos can be found here:
+
+
+[![](/img/Resource/CS_crash.png)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
 
 ---
 ### HTML, CSS and Javascript
@@ -58,7 +62,7 @@ My study notes, if you're interested in having a look, can be found:
 ---
 ### Markov Chain Monte Carlo (MCMC)
 
-If you are a newbie, read those three blogs will help tremendously for your later understanding in terms of mathematical properties of Markov Chain.
+If you are a newbie, read those three blogs will help tremendously for your later understanding in mathematical properties of Markov Chain.
 
 1. [Frequentism and Bayesianism by Jake Vanderplas](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)
 1. [My Tryst With MCMC Algorithms](http://mlwhiz.com/blog/2015/08/19/MCMC_Algorithms_Beta_Distribution/)
@@ -76,7 +80,7 @@ If you are a newbie, read those three blogs will help tremendously for your late
 1. [Markov Chain Monte Carlo (MCMC) to a layperson, haha, like me](https://stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson/207#207?newreg=ad3f6d53eeea46a7a73232b8fd57c7d5)
 
 ---
-here are links to some PDFs, which could be somehow mathematical, but I believe you guys can handle it 😏
+Here are some links to the PDFs, which could be somehow mathematical, but I believe you guys can handle it 😏
 
 1. [Introduction to Markov Chain Monte Carlo Charles J. Geyer](http://www.mcmchandbook.net/HandbookChapter1.pdf)
 1. [The Conjugate Prior for the Normal Distribution](http://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/lecture5.pdf)
