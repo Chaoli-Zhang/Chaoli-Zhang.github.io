@@ -1,8 +1,8 @@
 ---
 layout:     post                                    # 使用的布局（不需要改）
 title:      Learning Resources        # 标题
-subtitle:   CS, HTML, CSS, Javascript, ML, MCMC            #副标题
-date:       2017-08-27                              # 时间
+subtitle:   CS, HTML, CSS, Javascript, JQuery, PHP, ML, MCMC            #副标题
+date:       2017-09-01                              # 时间
 author:     Chaoli Zhang                            # 作者
 header-img: img/Tag-bg-hacker.jpg                  #这篇文章标题背景图片
 catalog: true                                       # 是否归档
@@ -25,16 +25,20 @@ A short crash course on computer science by Carrie Anne, videos can be found her
 
 
 ---
-### HTML, CSS and Javascript
+### HTML, CSS, Javascript, JQuery and PHP
 A short introductory course on HTML, CSS and Javascript by EJ, videos can be found here:
 - [HTML Introductory Course](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
 - [CSS Introductory Course](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
 - [Javascript Introductory Course](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
+- [JQuery Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1)
+- [PHP Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf86WpAyqV5dJUwYUUTzJWWV)
 
 My study notes, if you're interested in having a look, can be found:
 - [ HTML Learning Notes]({% post_url 2017-08-26-HTML_learn %}).
 - [ CSS Learning Notes]({% post_url 2017-08-26-CSS_learn %}).
 - [ Javascript Learning Notes]({% post_url 2017-08-26-Javascript_learn %}).
+- [ JQuery Learning Notes]({% post_url 2017-08-26-JQuery_learn %}).
+- [ PHP Learning Notes]({% post_url 2017-08-26-php_learn %}).
 
 ---
 ### Machine Learning (ML)
