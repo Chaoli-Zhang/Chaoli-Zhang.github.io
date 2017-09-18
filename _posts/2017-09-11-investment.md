@@ -11,7 +11,9 @@ tags:                                               #标签
     - Stock
 ---
 
-<span style="color:green"> 【Beginners】</span>
+The video course can be found here: [BuffetsBooks.com](https://www.youtube.com/playlist?list=PLD3EB06EC4A19BFB8)
+
+### <span style="color:green"> 【Beginners】</span>
 
 ### L 1 value investing
 
@@ -135,6 +137,8 @@ tags:                                               #标签
 ![](/img/Stock/BL_FED3.png?raw=true)
 ![](/img/Stock/BL_FED4.png?raw=true)
 
+### <span style="color:green"> 【Intermediate】</span>
+
 ### L 12 Financial risk
 
 - Risk Vs Reward
@@ -175,5 +179,74 @@ tags:                                               #标签
 
 - what is yield curve
 - how can I use yield curve to predict market behavior
+
+![](/img/Stock/IL_YC1.png?raw=true)
+![](/img/Stock/IL_YC2.png?raw=true)
+![](/img/Stock/IL_YC3.png?raw=true)
+![](/img/Stock/IL_YC4.png?raw=true)
+![](/img/Stock/IL_YC5.png?raw=true)
+![](/img/Stock/IL_YC6.png?raw=true)
+
+### L 16 How to use a bond calculator
+
+- How does the price of a bond change with interest rates
+- How to use BuffettsBooks.com Bond calculator: [Calculator](http://buffettsbooks.com/howtoinvestinstocks/course2/bonds/bond-calculator.html)
+
+### L 17 Buffett's Four Rules to Investing
+
+![](/img/Stock/IL_rules.png?raw=true)
+
+### L 18 Buffett's 1st Rule (vigilant leadership)
+
+- define vigilant leadership
+- understand the debt to equity ratio
+    + longterm debt/equity <0.5
+- understand the current ratio
+    + total current asset/total current liability >1.5
+- what level of debt are acceptable
+
+![](/img/Stock/IL_1strule1.png?raw=true)
+![](/img/Stock/IL_1strule2.png?raw=true)
+
+### L 19 Buffett's 2nd Rule (stock must have long term prospect)
+
+- how do we identify a company with long term prospects
+- what is capital gains tax
+- what is difference between short term gains and long term gains
+
+![](/img/Stock/IL_2ndrule1.png?raw=true)
+![](/img/Stock/IL_2ndrule2.png?raw=true)
+![](/img/Stock/IL_2ndrule3.png?raw=true)
+![](/img/Stock/IL_2ndrule4.png?raw=true)
+![](/img/Stock/IL_2ndrule5.png?raw=true)
+
+### L 20 Buffett's 3rd Rule (stock must be stable and understandable)
+
+- stability is important for determining the intrinsic value
+- investing a company that you can understand is vital
+
+![](/img/Stock/IL_3rdrule1.png?raw=true)
+![](/img/Stock/IL_3rdrule2.png?raw=true)
+![](/img/Stock/IL_3rdrule3.png?raw=true)
+
+### L 21 Buffett's 4th Rule (Intrinsic Value Calculation. Most Challenging!)
+
+- a stock must be undervalued
+- how to calculate intrinsic value of the stock
+- how to use BuffettsBooks.com [intrinsic value calculator](http://buffettsbooks.com/howtoinvestinstocks/course2/stocks/intrinsic-value-calculator.html#sthash.y3YJ266o.dpbs)
+
+<span style="color:red"> Re-watch the video everytime you come back to this point: </span>
+
+[Buffett's Rule 4](https://www.youtube.com/watch?v=S1wbCieoHs4&index=10&list=PLD3EB06EC4A19BFB8)
+
+![](/img/Stock/IL_4thrule1.png?raw=true)
+![](/img/Stock/IL_4thrule2.png?raw=true)
+![](/img/Stock/IL_4thrule3.png?raw=true)
+![](/img/Stock/IL_4thrule4.png?raw=true)
+
+### L 22 Preferred Stock
+
+- what is a preferred share
+- what are the considerations
 
 
