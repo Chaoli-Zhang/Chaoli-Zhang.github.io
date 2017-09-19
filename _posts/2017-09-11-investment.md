@@ -280,5 +280,52 @@ Just re-watch the [videos](https://www.youtube.com/watch?v=jsq3CxOkBng&list=PLD3
 
 ### L 25 income investing
 
-- what is income investing
-- how can I employ income investing
+Income investing is the concept of purchasing bonds and stocks that will provide income for the owner in retirement through stable coupon and dividends. The amount should be so high that when you are living the life style you want to, your portfolio would remain the same or even increase.
+
+A practical example can be used to explain this concept. Imagine that you have $1,000,000 in retirement and you are able to make a stable 5% return. In that case you would receive $50,000 each year in proceeds from your investment. That means that if you expenses are equal or below this amount you can maintain the lifestyle for the rest of your life.
+
+Which approach should you take if you are near retirement age and you want to invest in companies that benefit you right now and well into your retirement? The answer is quite simple: “Invest in stable companies that pay dividends”.
+
+To illustrate this, it is shown is this lesson how high debt companies through the recent financial crisis dramatically cut their dividend payments. This is surely not a situation you want to be exposed to if you are supposed to pay your bills with your dividend payments. Companies that have a much lower debt on the other hand managed to sustain or even increased their dividend.
+
+One simple rule to remember when speaking about income investing: “Always purchase assets that will increase your cash flow next month”. It could be low debt stocks paying dividends, or a bond paying coupons. Income investing has a compounding effect that is hard to find elsewhere.
+
+Typically the attractiveness of your investment opportunities constantly changes. The benefit of a continuously increase in monthly cash flow is that you can keep investing in the assets that is currently undervalued.
+
+Finally in the lesson a conclusion is presented:
+
+Income investing provides a quarterly payments during retirement
+Income investing provides a stable stream of cash that allow you to buy the currently most undervalued assets. This is especially beneficial prior to retirement.
+As a rule of thumb 1/3 of earnings as dividend and 2/3 as retained earnings is desired.
+
+![](/img/Stock/IL_II1.png?raw=true)
+![](/img/Stock/IL_II2.png?raw=true)
+![](/img/Stock/IL_II3.png?raw=true)
+![](/img/Stock/IL_II4.png?raw=true)
+
+### L 26 - 27 cash flow statement
+
+The cash flow statement can be broken down into three components:
+
+1)  Operating Activities (Look for a high positive number)
+
+This is the most important number to look for. This is the cash that is produced by the company’s operations, and without that, the cash flow from investing and financing activities cannot be healthy. While the net income is a key number and is also included in the calculation of operating activities, many other factors influence how much cash the company is actually making. If you see a high positive cash flow from you operating cash it is typically a positive of a healthy business.
+
+2)  Investing Activities (Look for a negative number
+
+All companies need cash to reinvest in the business. It might be for new machines, cars or property. Often companies also invest in common stock or bonds, and all of that is too finance by the investing activities. If you see that the cash flow from investing activities is positive, this would imply that the company has sold income producing assets. While that may nice in the short run to obtain more cash, this would most often be followed by a decline in in later earnings. Therefore you want investing activities to show a negative cash flow.
+
+3)  Financing Activities (Look for a negative number)
+
+Financing activities includes handling of debt and relationship to the investors, and is a neat number to investigate for management’s financial discipline. If you see that this number is positive it would typically imply that the company has obtained more debt, or in some cases that it has issued more shares. While tis extra cash can be very useful in some cases, it can also be a sign of trouble. An increase in debt means higher interest payment in the long run, and common stock issue dilute the investor’s ownership of the company. A negative number on the other hand indicate that debt has been repaid, common stock has been bought back (increasing investors’ ownership of the company), or dividend has been paid out to the shareholders.
+
+![](/img/Stock/IL_cf1.png?raw=true)
+![](/img/Stock/IL_cf2.png?raw=true)
+![](/img/Stock/IL_cf3.png?raw=true)
+![](/img/Stock/IL_cf4.png?raw=true)
+
+Examples on real case flow statement can be found here: [Examples](http://buffettsbooks.com/howtoinvestinstocks/course2/cash-flow-statement/how-to-read-cash-flow-statement.html)
+
+
+### L 28 WHEN TO SELL STOCK
+
