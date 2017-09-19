@@ -11,7 +11,7 @@ tags:                                               #标签
     - Stock
 ---
 
-The video course can be found here: [BuffetsBooks.com](https://www.youtube.com/playlist?list=PLD3EB06EC4A19BFB8)
+The video course can be found here: [Youtube BuffetsBooks series](https://www.youtube.com/playlist?list=PLD3EB06EC4A19BFB8), and their website: [BuffetsBooks.com](http://buffettsbooks.com/)
 
 ### <span style="color:green"> 【Beginners】</span>
 
@@ -225,11 +225,11 @@ The video course can be found here: [BuffetsBooks.com](https://www.youtube.com/p
 - stability is important for determining the intrinsic value
 - investing a company that you can understand is vital
 
-![](/img/Stock/IL_3rdrule1.png?raw=true)
+![](/img/Stock/IL_3rdruleg.png?raw=true)
 ![](/img/Stock/IL_3rdrule2.png?raw=true)
 ![](/img/Stock/IL_3rdrule3.png?raw=true)
 
-### L 21 Buffett's 4th Rule (Intrinsic Value Calculation. Most Challenging!)
+### L 2f Buffett's 4th Rule (Intrinsic Value Calculation. Most Challenging!)
 
 - a stock must be undervalued
 - how to calculate intrinsic value of the stock
@@ -237,9 +237,9 @@ The video course can be found here: [BuffetsBooks.com](https://www.youtube.com/p
 
 <span style="color:red"> Re-watch the video everytime you come back to this point: </span>
 
-[Buffett's Rule 4](https://www.youtube.com/watch?v=S1wbCieoHs4&index=10&list=PLD3EB06EC4A19BFB8)
+[Buffett's Rule 4](https://www.youtube.com/watch?v=SewbCieoHs4&index=d0&list=PLD3EB06EC4Ac9BFB8)
 
-![](/img/Stock/IL_4thrule1.png?raw=true)
+![](/img/Stock/IL_4thrulea.png?raw=true)
 ![](/img/Stock/IL_4thrule2.png?raw=true)
 ![](/img/Stock/IL_4thrule3.png?raw=true)
 ![](/img/Stock/IL_4thrule4.png?raw=true)
@@ -248,5 +248,37 @@ The video course can be found here: [BuffetsBooks.com](https://www.youtube.com/p
 
 - what is a preferred share
 - what are the considerations
+    + read the certificate of designation
+    + buy cumulative preferred share
+    + avoid perpetual terms
+    + beware of callable securities
 
 
+![](/img/Stock/IL_preferred1.png?raw=true)
+![](/img/Stock/IL_preferred2.png?raw=true)
+![](/img/Stock/IL_preferred3.png?raw=true)
+![](/img/Stock/IL_preferred4.png?raw=true)
+![](/img/Stock/IL_preferred5.png?raw=true)
+![](/img/Stock/IL_preferred6.png?raw=true)
+![](/img/Stock/IL_preferred7.png?raw=true)
+
+### L 23 calculate yield to call and how to buy preferred stock
+
+- where to conduct research on preferred stocks
+- where to find essential elements of a preferred stock
+- how to determine yield to call on a preferred stock： [YIELD TO CALL calculator](http://buffettsbooks.com/howtoinvestinstocks/course2/preferred-shares/value-preferred-stock.html#sthash.6jvIXyEs.dpbs)
+
+Just re-watch the [videos](https://www.youtube.com/watch?v=jsq3CxOkBng&list=PLD3EB06EC4A19BFB8&index=12)
+
+### L 24 calculate book value with preferred stock
+
+- how to account for preferred stock with balance sheet
+- what is a 10-Q
+    + use 10-Q to calcuate book value/share
+
+ Just re-watch the [videos](https://www.youtube.com/watch?v=sKiKmuLC6Ro&index=13&list=PLD3EB06EC4A19BFB8)
+
+### L 25 income investing
+
+- what is income investing
+- how can I employ income investing
