@@ -1,7 +1,7 @@
 ---
 layout:     post                                    # 使用的布局（不需要改）
-title:     BuffettsBooks          # 标题
-subtitle:   Warren Buffett stock courses            #副标题
+title:      How to invest in stocks like Warren Buffett          # 标题
+subtitle:   Investment course from BuffettsBooks.com【Beginners, Intermediate and Advanced level】           #副标题
 date:       2017-09-04                              # 时间
 author:     Chaoli Zhang                            # 作者
 header-img: img/Tag-bg-hacker.jpg                  #这篇文章标题背景图片
@@ -13,7 +13,9 @@ tags:                                               #标签
 
 The video course can be found here: [Youtube BuffetsBooks series](https://www.youtube.com/playlist?list=PLD3EB06EC4A19BFB8), and their website: [BuffetsBooks.com](http://buffettsbooks.com/)
 
-### <span style="color:green"> 【Beginners】</span>
+---
+
+### <span style="color:purple"> 【Beginners】</span>
 
 ### L 1 value investing
 
@@ -29,7 +31,6 @@ The video course can be found here: [Youtube BuffetsBooks series](https://www.yo
 ### L 2 ice cream business
 
 ![](/img/Stock/BL1.png?raw=true)
-
 
 - Net income (earnings)
     + divident
@@ -137,7 +138,7 @@ The video course can be found here: [Youtube BuffetsBooks series](https://www.yo
 ![](/img/Stock/BL_FED3.png?raw=true)
 ![](/img/Stock/BL_FED4.png?raw=true)
 
-### <span style="color:green"> 【Intermediate】</span>
+### <span style="color:purple"> 【Intermediate】</span>
 
 ### L 12 Financial risk
 
@@ -326,7 +327,7 @@ Financing activities includes handling of debt and relationship to the investors
 
 Examples on real case flow statement can be found here: [Examples](http://buffettsbooks.com/howtoinvestinstocks/course2/cash-flow-statement/how-to-read-cash-flow-statement.html)
 
-### <span style="color:green"> 【Advanced】</span>
+### <span style="color:purple"> 【Advanced】</span>
 
 ### L 28 WHEN TO SELL STOCK
 

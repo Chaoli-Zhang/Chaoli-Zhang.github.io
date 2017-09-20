@@ -1,6 +1,6 @@
 ---
 layout:     post                                    # 使用的布局（不需要改）
-title:      Website develop (Javascript)        # 标题
+title:      Javascript        # 标题
 subtitle:   Javascript learning from EJ            #副标题
 date:       2017-08-27                              # 时间
 author:     Chaoli Zhang                            # 作者

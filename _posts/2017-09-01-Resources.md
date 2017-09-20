@@ -1,6 +1,6 @@
 ---
 layout:     post                                    # 使用的布局（不需要改）
-title:      Learning Resources        # 标题
+title:      学习资源（压箱货 ☺️）        # 标题
 subtitle:   CS, HTML, CSS, Javascript, JQuery, PHP, ML, MCMC            #副标题
 date:       2017-09-01                              # 时间
 author:     Chaoli Zhang                            # 作者
