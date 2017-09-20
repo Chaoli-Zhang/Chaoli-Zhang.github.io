@@ -326,6 +326,7 @@ Financing activities includes handling of debt and relationship to the investors
 
 Examples on real case flow statement can be found here: [Examples](http://buffettsbooks.com/howtoinvestinstocks/course2/cash-flow-statement/how-to-read-cash-flow-statement.html)
 
+### <span style="color:green"> 【Advanced】</span>
 
 ### L 28 WHEN TO SELL STOCK
 
