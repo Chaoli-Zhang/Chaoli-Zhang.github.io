@@ -17,7 +17,7 @@ The video course can be found here: [Youtube BuffetsBooks series](https://www.yo
 
 ### <span style="color:purple"> 【Beginners】</span>
 
-### L 1 value investing
+### L 1 Value investing
 
 - Value Investing
 - Value Trading
@@ -28,7 +28,7 @@ The video course can be found here: [Youtube BuffetsBooks series](https://www.yo
     + security analysis
     + the intelligent investor
 
-### L 2 ice cream business
+### L 2 Ice cream business
 
 ![](/img/Stock/BL1.png?raw=true)
 
@@ -38,7 +38,7 @@ The video course can be found here: [Youtube BuffetsBooks series](https://www.yo
 - board of directors (reprentor of shareholder)
 - Find companies that trade for less than 15 times the earnings
 
-### L 3 balance sheet and margin of safety
+### L 3 Balance sheet and margin of safety
 
 ![](/img/Stock/BL2.png?raw=true)
 
@@ -51,7 +51,7 @@ The video course can be found here: [Youtube BuffetsBooks series](https://www.yo
 - Equity = Total assets - total liability
 - The closer the equity is to the market price, the safer the investment
 
-### L 4 finding basic stock terms
+### L 4 Finding basic stock terms
 
 ![](/img/Stock/BL4.png?raw=true)
 
