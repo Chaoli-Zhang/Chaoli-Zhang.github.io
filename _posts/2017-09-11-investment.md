@@ -226,7 +226,7 @@ The video course can be found here: [Youtube BuffetsBooks series](https://www.yo
 - stability is important for determining the intrinsic value
 - investing a company that you can understand is vital
 
-![](/img/Stock/IL_3rdruleg.png?raw=true)
+![](/img/Stock/IL_3rdrule1.png?raw=true)
 ![](/img/Stock/IL_3rdrule2.png?raw=true)
 ![](/img/Stock/IL_3rdrule3.png?raw=true)
 
@@ -240,7 +240,7 @@ The video course can be found here: [Youtube BuffetsBooks series](https://www.yo
 
 [Buffett's Rule 4](https://www.youtube.com/watch?v=SewbCieoHs4&index=d0&list=PLD3EB06EC4Ac9BFB8)
 
-![](/img/Stock/IL_4thrulea.png?raw=true)
+![](/img/Stock/IL_4thrule1.png?raw=true)
 ![](/img/Stock/IL_4thrule2.png?raw=true)
 ![](/img/Stock/IL_4thrule3.png?raw=true)
 ![](/img/Stock/IL_4thrule4.png?raw=true)
@@ -406,43 +406,47 @@ The takeaway from this lesson can be summed up to the following:
 
 ### L 31 STOCK TERMINOLOGY
 
-- Shares Outstanding:
+Examples on how to calculate those terminologies can be found here: [video](http://buffettsbooks.com/howtoinvestinstocks/course2/cash-flow-statement/how-to-read-cash-flow-statement.html)
+
+---
+
+- **Shares Outstanding:**
 Shares outstanding refer to the number of shares that are held by all the stockholders of the company. If there are 100 outstanding shares and you own 1 share, you own 1% of that company. Shares outstanding are reported numbers that require no calculation.
 
-- Earnings per Share (EPS):
+- **Earnings per Share (EPS):**
 Knowing how much money a company makes it very neat, but as a shareholder it is often more important to know what the earnings are on a per share basis. The reason is that as a shareholder, you are being rewarded according to your level of ownership. The key ratio is calculated as Net income / Shares outstanding.
 
-- Diluted EPS:
+- **Diluted EPS:**
 Diluted EPS is very similar to EPS. The difference occurs when companies reward employees with stocks. More stocks mean that the ownership, including the earnings becomes diluted. Therefore, Diluted EPS is therefore a more accurate measure to use than normal EPS. It is calculated as: Net income / Diluted average shares.
 
-- Price to Earnings (P/E):
+- **Price to Earnings (P/E):**
 The Price to Earnings or P/E is a very commonly used key ratio to indicate the price level of a stock. For instance, a P/E of 18 means that $18 is the cost of $1 earnings a year later. It is calculated as: Stock price / EPS
 
-- Stock Volume:
+- **Stock Volume:**
 Stock volume is the number of shares of a given stock that are being traded on a daily basis. This number is reported, and therefore, it doesn’t come with a formula.
 
-- Dividend Rate:
+- **Dividend Rate:**
 The dividend rate is dependent on how much the management has decided to pay out as dividend. For example, if a company decides to pay out $1 in dividend per share, the dividend rate is $1.
 
-- Dividend Yield:
+- **Dividend Yield:**
 The dividend yield indicates the size of the return an investor can expect to gain at the current price. If the stock price is $100 and each stock pays off $3, the yield is 3%. Often, this is simply reported as 3 with no percentage sign, but in any case, that is how it should be interpreted. It is calculated as: dividend rate / stock price.
 
-- Debt/Equity Ratio:
+- **Debt/Equity Ratio:**
 The Debt/Equity ratio compares the amount of debt the company has incurred when compared to the equity of the company. The equation is very simple to remember: Debt / Equity.
 
-- Book Value:
+- **Book Value:**
 The book value number is sometimes known as the equity per share. What that number tells you as an investor, is if all the company’s assets were being liquidated and all debt was paid off, this is the cash you would be left with. The formula: Equity / Shares outstanding.
 
-- Price/Book Value (P/BV):
+- **Price/Book Value (P/BV):**
 Stocks are typically not priced at book value. Investors can be willing to pay a much higher price for an asset – like a patent – than what you can read from the books. Typically, the reason for this is that the investor deems high earnings potential or because it is considered a safe company. What the investor can take away from this number is a snapshot of the margin of safety. For instance, if a stock that’s trading at a high P/B is considerably above 1.5, there is often very little margin of safety. Warren Buffet would want to omit this too and in other words, the stocks may be overpriced. Formula for P/BV: Stock price / Book value.
 
-- Equity Growth:
+- **Equity Growth:**
 The equity growth measures the book value growth per share over a given time period. The BuffettsBooks.com intrinsic calculator can help you calculate that number using book value inputs over your desired period of investigation.
 
-- Return on Equity:
+- **Return on Equity:**
 Any investor would want the Return on Equity ratio to be as high as possible, stable and increasing. Since the equity is the shareholders money, the ROE is a measure of how well the shareholder’s money is reinvested in the business. The formula for ROE is: Net income / Equity
 
-- Current Ratio:
+- **Current Ratio:**
 The current ratio indicates the amount of cash the company can expect to convert over the next 12 months. It also includes the amount of cash the company is expected to pay out over the same time period. Current ratio is calculated as: Current assets / Current liabilities.
 
 ### L 32 A STOCK SCREENER
@@ -463,4 +467,143 @@ Stock screener provides a large number of different key ratios that all can be f
 It is really important to emphasize that there is no right or wrong criterion to use. For instance, Warren Buffett likes a P/E ratio below 15, but if you have a strategy where you would accept a P/E that is 20, it is completely fine. Also, in this lesson, we learn that the selected criteria depend on the general state of the economy. For example, in a very high stock market you need to loosen up on your criteria to find investment prospects, while a stock market crash would allow you to be very picky in your criteria for stock selection.
 
 In the end, a stock screener is nothing more than a tool that gives you an indication of potential bargains. To figure out if it is a stock worth investing in, a comprehensive qualitative study must always be conducted as well.
+
+---
+
+<span style="color:#31EDFEFF">One example showing how to use google stock screener</span>
+
+![](/img/Stock/AL_ss1.png?raw=true)
+
+
+### L 33 GOODWILL ON A BALANCE SHEET
+
+**Summary**
+
+It’s a prerequisite to understand the difference between a tangible and an intangible asset at the very beginning of this lesson before we go into details. Examples of tangibles assets include a plant, inventory, or cash – it is physically tangible, which basically means that you can feel and touch the asset. Examples of an intangible asset include brand name, customer loyalty, and patents. You can’t touch an intangible asset.
+
+While this lesson teaches us that the goodwill is in fact a tangible asset, a balance sheet would often show that goodwill is separated from intangibles.
+
+Under all circumstances, the natural question arises as to how a company can list an asset on their balance sheet that is intangible. The principle is very simple: “The amount that the parent company paid more than the equity value of a subsidiary is listed as goodwill”.
+
+Imagine that Apple (parent company) wants to buy a smaller company (subsidiary). If Apple would pay 50,000 and the equity in that company is $20,000, Apple can list goodwill of $30,000 ($50,000-$20,000). As the goodwill is listed as an asset, it would also be included as equity in the consolidated financial statements of Apple.
+
+Remember that Apple also acquired the equity of $20,000 in that company; therefore, Apple can list the whole purchasing price of $50,000 of the subsidiary as an asset. Now, it is important to note that buying other companies is not a method to grow assets that are turned into equity. The $50,000 which was the purchasing price is money that Apple has earned previously, so basically Apple is simply moving things around on their balance sheet.
+
+A question that logically arises when discussing goodwill is why a company like Apple would pay a premium for the equity in another company. The subsidiary might have capabilities that are of a high value, but at the same time they aren’t recognized in the financial statements. Examples include brand name, customer loyalty, patents, and employee knowledge.
+
+The challenge in security analysis is to value a company that has goodwill. Warren Buffet doesn’t place a lot of emphasis on the goodwill you find on the balance sheet (called accounting goodwill) Instead, he places a lot of emphasis on what he calls the economic goodwill. Economic goodwill is what can be earned more than the market return from intangible assets. This is also why businesses can be worth far more than net tangible assets. An example of this could be a company with high brand recognition that can charge a higher price for their products because their customers are very loyal.
+
+Warren Buffett is not only focusing on economic goodwill leading to a higher return right now. Another great argument is that while the economic goodwill is inflation proofed, the tangible assets that typically need to be replaced are not. For that reason, if economic goodwill is sustained, more profit will also be made over time.
+
+Benjamin Graham has a different view on goodwill from that of his student, Warren Buffett. Benjamin Graham looks at a company as if it were prone to liquidate the very next day. If that should occur, net tangible assets are the only things left to value the business. For that very reason, he therefore believes that the margin of safety is the difference between the market price and book value. One thing to keep in mind though: When talking about Benjamin Graham, you must understand that he conducted a lot of his research in the 1930s after the great depression, and that might explain his more skeptical approach.
+
+BuffettsBooks.com has the opinion that economics goodwill is great as it is inflation proofed, given that you plan to hold the stocks forever. Strong earnings and minimal debt is also a requirement. Still, a reasonable amount of tangible assets for safety is recommended.
+
+**New Vocabulary**
+
+- **Tangible Asset:**
+An easy way to remember what a tangible asset is simply to keep in mind that it is “tangible”. For example a company can own a car. A car is tangible, or in other words, it’s something you can touch.
+
+- **Intangible Asset:**
+An intangible asset is something that you cannot touch. A company like Coca-Cola might have a strong brand name, but the brand name is not something you can lay your hands on.
+
+- **Consolidated Financial Statements:**
+When a company has bought another company’s financial statements, they must be prepared for both companies combined. This is referred to as consolidated statements or as financial statements for the “group”.
+
+- **Accounting Goodwill:**
+The accounting goodwill is the amount of goodwill you find in the balance sheet. Neither Warren Buffett nor Benjamin Graham put much emphasis on that.
+
+- **Economic Goodwill:**
+The economic goodwill is the concept that explains why a company can be worth far more than its net intangible assets. It might be because the brand name is strong, or customers are very loyal. While Warren Buffett believes that economics goodwill creates a lot of value to the business, Benjamin Graham is of the opinion that the overall worth of the goodwill and intangibles is very little.
+
+- **Net Tangible Assets:**
+When subtracting intangibles from equity in the balance sheet, you end up with the net tangible assets. That is also the amount of money you end up with if the company is liquidated.
+
+
+### L 34 Buffett's owner's earnings calculation
+
+**Summary**
+
+In this lesson, students learn the difference between accounting earnings and Warren Buffett's Owner's Earnings.
+
+When an Investor looks at the bottom line figure on the Income Statement, they find the Net Income. This is the profit the company has produced for the given time frame. Although many people use the net income to value a business, Warren Buffett takes a different approach, and calculates what he calls the Owner's Earnings.
+
+In order to understand the concept of Owner's Earnings, one must understand the two paths taken by the Net Income after it's produced. The first path is a potential dividend payment. Any funds that take this path are immediately valued as Owner's Earnings. The remaining amount of net income after the dividend payment is then used to invest back into the business. This money also has two paths. While one path is to use the money to reinvest into the maintenance and care of the already existing equipment, the other path is to spend the money on expanding the assets of the company. If the funds flow in the first direction, called Capital Expenditures, the company’s book value will display little or no growth at all. If the funds flow in the second direction, the money will add new streams of income to the business and the asset will be added to the current equity of the business. This second amount is added to the dividend and the total is referred to as the Owner's Earnings.
+
+If an individual is interested in calculating the owner's Earnings, he/she could simply take the funds from the Operating Activities section on the Cash Flow Statement, and subtract it from the Capital Expenditures -- also found on the Cash Flow Statement.
+
+Remember, the true Owner's Earnings is nothing more than the book value growth and the dividends combined.
+
+In order to read Warren Buffett’s exact notes on Owner’s Earnings, be sure to follow this link to his 1986 Shareholder’s Letter. The portion on Owner’s Earnings can be found at the bottom of this document.
+
+The most important thing to take away from owner’s earnings is to understand the concept more than remembering simple formulas. As a shareholder you want to know the amount of value the company is making, and how much of that is flowing back to you. This is, in essence, what owner’s earnings are all about. Accounting both intentionally an unintentionally misleads the investor, but at the end of the day, the real value that is being created for the shareholder is all that counts.
+
+At the end of the lesson four main pointers are provided:
+
+1. Fully understand the difference between owner’s earnings and accounting earnings
+2. Continue to value companies based off the book value growth and dividend
+3. When assessing the future earnings of the business, ensure that the estimate remains stable or is increasing
+4. Check the Cash flow statement quarterly, to ensure that the ratio between the operating activities and Capital Expenditures remains intact.
+
+Owner’s earnings are just one example of how Warren Buffett has reinvented investment and seen new opportunities where he is one step ahead of the pack. Tap Dancing to Work by Carol Loomis gives you a unique insight of Warren Buffett’s more advanced thoughts and actions on investment. I've read this book and enjoyed it very much. Carol does an outstanding job capturing important Buffett topics.
+
+**New Vocabulary**
+
+- **Accounting Earnings:**
+The accounting earnings are often referred to as “reported earnings” and it is located at the bottom of the income statement as “net income”.
+
+- **Owner's Earnings:**
+The owner’s earnings are referred to as “Free Cash Flow”. The accounting earnings that is in reality turned into earnings for the shareholder. It is calculated as: Cash from Operating Activities – Capital Expenditures.
+
+- **Capital Expenditures:**
+The capital expenditures are the expenses the company incurs when replacing assets. Examples of assets that need replacement are typically cars, plants, and other operating equipment.
+
+![](/img/Stock/AL_OE1.png?raw=true)
+
+### L 35 INTRINSIC VALUE CALCULATOR
+
+THE DISCOUNT CASH FLOW (DCF) MODEL
+VALUING OWNERS EARNINGS
+
+**Summary**
+
+The DCF calculator has a different approach to valuating a stock when compared to the intrinsic value calculator, which has been presented previously throughout the courses. The DCF calculator uses cash flows for valuation. The calculator typically first calculates for the coming 10 years, and then in addition it estimates the value of the stock if you hold it forever – this is also called perpetuity.
+
+To get the easiest insight into how the calculator works and making it as user friendly as possible, the DCF calculator is broken down into 6 simple steps:
+
+1. Estimate the free cash flow
+2. Estimate the short term growth rate
+3. Determine the short term
+4. Determine the discount rate
+5. Determine the growth into perpetuity
+6. Input the number of shares outstanding
+
+In the following lesson, a further elaboration of each step is shown. It is important to emphasize that when talking about estimates, estimates are exactly what you get. They are qualified guesses about the future – nothing more and nothing less. This is also why you will see that two people with the same information available will come up with two different numbers for the value of a stock.
+
+1. Estimating the Free Cash Flow (FCF) is the first step in the process and the investor is advised to look back at the 10 previous years to get an indication about the level of FCF the company can expect to make in the future. Remember that FCF is similar to what Warren Buffett calls the owner’s earnings, which is the money that is actually flowing back to you as a shareholder. BuffettsBooks.com has provided you with a tool that allows you to write a ticker, and automatically be taken to a site where you can copy paste the required data. FCF can change a lot from one year to the next dependent on the investment level, so it is important to look back in time.
+
+2. Estimating the short term growth rate can also be approached by an assisting tool similar to the one in step 1. While the past can be used as an indicator, it is very important to consider the growth/maturity state of the company. For very large companies you might only want to use a few percent, while smaller companies typically grow at a much larger pace.
+
+3. Determining the short run is interrelated with step 2. Many companies grow at a rapid pace for only a short period of time until they mature. For example, an IT company might be growing with double digit numbers for 5-10 years, followed by a more modest growth.
+
+4. Determining the discount rate is another way of asking which return you would require from a stock as an investor. While this might seem a bit redundant, it is a measure asking about how you deem the risk of the stock. For a new IT company you might require a larger return than for a large 10+ billion dollar net income company that has been around for over a century. At the final step of the calculation, BuffettsBooks.com has provided you with a simple solution if you want to leave the input at a generic 10% level.
+
+5. Determining the growth rate into perpetuity (forever) might seem like an impossible task. As a rule of thumb you are recommended to use 2-3%, which is simply the estimated inflation. It would be unrealistic to include a high growth rate forever.
+
+6. Input the number of shares outstanding. So far this calculation has been based on numbers for the whole company. This step takes the process down to a per share basis, making it comparable with the present share price of a single stock.
+
+What has happened after all 6 steps is that the intrinsic value of a stock has been calculated for a single stock. This is done by discounting the estimated FCF that you, as a shareholder, would receive for holding the stock.
+
+A few pointers that might be helpful:
+
+Intrinsic value > market price = opportunity for a good bargain.
+Intrinsic value < market price = risk of overpaying for the stock
+
+Compared to the intrinsic value calculator in chapter 21, this calculator can be recommended to be applied for:
+
+1. Valuating high growth companies
+2. Companies having a large number of share buy-backs.
+3. Companies having stock splits
+
+If you're interested in a more detailed description with an outline of how this calculator works, it can be found in the “Warren Buffett Accounting Book”. This book was written by us, Preston Pysh and Stig Brodersen, and it contains all formulas and definitions. If you have any specific questions about this calculator, please do not hesitate to ask Preston and Stig directly at: Ask The Investors
 
