@@ -1,6 +1,6 @@
 ---
 layout:     post                                    # 使用的布局（不需要改）
-title:      优雅的建立简便的天文学术文献库         # 标题
+title:      优雅的建立天文学术文献库         # 标题
 subtitle:   下载paper，管理paper，阅读paper            #副标题
 date:       2017-10-06                              # 时间
 author:     Chaoli Zhang                            # 作者
