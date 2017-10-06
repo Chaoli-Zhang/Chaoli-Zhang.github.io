@@ -48,29 +48,29 @@ tags:                                               #标签
 
 ![ads_page1.png](/img/paper_downld/ads_page1.png "ads_page1.png")
 
-【步骤1-2】然后根据下面图示输入相应参数：
+【步骤1-2】根据下面图示输入相应参数：
 
 ![ads_page2.png](/img/paper_downld/ads_page2.png "ads_page2.png")
 
-【步骤1-3】 然后得到相应所有paper的DOI号码，如下图所示：
+【步骤1-3】 得到相应所有paper的DOI号码，如下图所示：
 
 ![ads_page3.png](/img/paper_downld/ads_page3.png "ads_page3.png")
 
-【步骤1-4】 然后复制所有的adsbibdesk *** 到你喜爱的text editor （我使用sublime text 3）, 然后存储为paper.sh, 如下图：
+【步骤1-4】 复制所有的adsbibdesk *** 到你喜爱的text editor （我使用sublime text 3）, 然后存储为paper.sh, 如下图：
 
 ![ads_page4.png](/img/paper_downld/ads_page4.png "ads_page4.png")
 
-【步骤1-5】 然后把paper.sh弄成可执行的文件，比如，在terminal里面输入：chmod +x paper.sh
+【步骤1-5】 然后把paper.sh弄成可执行的文件，比如，在iTerm2里面输入：chmod +x paper.sh
 
 ![ads_page5.png](/img/paper_downld/ads_page5.png "ads_page5.png")
 
-### 【步骤2】 利用adsbibdesk用terminal下载
+### 【步骤2】 利用adsbibdesk下载
 
 【步骤2-1】接下来就可以打开bibdesk了，如下 (这一步很重要，如果没打开bibdesk，可能会出现bug )：
 
 ![bibdesk_1.png](/img/paper_downld/bibdesk_1.png "bibdesk_1.png")
 
-【步骤2-2】terminal执行paper.sh文件，然后就可以自动下载136片paper，然后归档到planck.bib文件里面：
+【步骤2-2】iterm2执行paper.sh文件，然后就可以自动下载136篇paper，然后归档到planck.bib文件里面：
 
 ![bibdesk_2.png](/img/paper_downld/bibdesk_2.png "bibdesk_2.png")
 
@@ -78,19 +78,19 @@ tags:                                               #标签
 
 ### 总结
 
-- 当你第一次使用adsbibdesk的时候，它会自动在你的Documents文件夹创建一个Papers文件夹，你下载下来的所有PDFs都会在/Documents/Papers里面。
-- adsbibdesk下载下来的paper名字都是tmp******.pdf, 完全是random，但这丝毫不影响你在planck.bib搜寻到你要的paper.
+- 当你第一次使用adsbibdesk的时候，它会自动在你的Documents文件夹创建一个Papers文件夹，你下载所有PDFs都将被存储在/Documents/Papers里面。
+- adsbibdesk下载下来的paper名字都是tmp******.pdf, 但这丝毫不影响你在planck.bib搜寻到你要的paper.
 
 ![bibdesk_3.png](/img/paper_downld/bibdesk_3.png "bibdesk_3.png")
 
 
-至于怎么样在堆积如海的PDF里面立马找到自己需要的paper，那就顺理成章很简单了，只需要在planck.bib里面搜寻paper的名字，或者一作的名字：
+至于怎么样在堆积如海的PDFs里面立马找到自己需要的paper，很简单，只需要在planck.bib里面搜寻paper的名字，或者一作的名字：
 
 ![bibdesk_4.png](/img/paper_downld/bibdesk_4.png "bibdesk_4.png")
 
 ### 建议
 
-如果你开始一个天文新领域，那可以找那个领域<span style="color: purple"> 最出名</span>和<span style="color: purple"> 应用最多</span>的paper，然后把这里面的所有paper都下载下来。我个人感觉，一个领域里只要下载个600-800篇文章，那以后基本上你想看什么文章，都不用去ads去找，直接到你的私人文献库去找，80-90%会在那里。而且，你写paper的时候就再也不用担心做bibliography.
+如果你开始一个天文新领域，那可以找那个领域<span style="color: purple"> 最出名</span>和<span style="color: purple"> 应用最多</span>的几篇paper，然后把这里面的所有reference paper都下载下来。我个人感觉，一个领域里只要下载个600-800篇文章，那以后基本上你想看什么文章，都不用去ads去找，直接到你的私人文献库去找，80-90%会在那里。而且，你写paper的时候就再也不用担心做bibliography.
 
 
 
