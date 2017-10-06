@@ -17,16 +17,36 @@ The video course can be found here: [Youtube BuffetsBooks series](https://www.yo
 
 ### <span style="color:purple"> 【Beginners】</span>
 
-### L 1 Value investing
+### L 1 WHAT IS VALUE INVESTING
 
-- Value Investing
-- Value Trading
-- Asset: continue put money to your pockage
-- patent
-- liability: Take money away
-- warren buffett's advisor: Benjamin Graham
-    + security analysis
-    + the intelligent investor
+**Summary**
+
+In this lesson we first learn about value trading. Here the trader know the value of something he owns, and look for another item that he can trade it for that has a higher value. This may be a viable strategy for some merchants, but the bottom line is that as time progresses the value of the items does not increase in value. A value trader need to keep putting in time and energy to find a new item with a high value to trade for, as well as he needs a very motivated seller who is actually interested in trading with him.
+
+In value investing the investor is holding on to an asset, and this asset increases in value over time even though he did not put in any time and effort. A fish pen is an “item”. It will continue to hold its value, but not increase in value. An apartment building on the other hand where you are renting out units can be considered an asset as it will continue to put money in your pocket. This can also be perceived as the definition of an asset: “It continues to puts money in your pocket as long as you own it”. The opposite of an asset is a liability. A liability is taking money out of your pocket as long as your own it. An example of this is a car. While it might be practical to own a car, at the end of the day it is an expense.
+
+Wealthy people own assets and continue to accumulate them. It could be apartment buildings, stocks, bonds, just to mention a few of the options.
+
+We also learn how Warren Buffett is looking at stocks. As a value investor he estimates the value, and if it is considerable higher than the price, he simply buy the stocks and hold them. As time progresses the value of continues to compound, making him more and more wealthy.
+
+Warren Buffett learned his simple yet powerful investment strategy from his college professor Benjamin Graham. Warren Buffett also later worked for him in his investment company and studied his two books: Security Analysis and The Intelligent Investor. Parts of these books are not easily accessible for the common stock investor, and that is where BuffettsBooks.com comes into the picture. Our site teaches the same techniques Warren Buffett was taught about value investing in simple video tutorials.
+
+
+**New Vocabulary**
+
+- **Value Investing**
+Buying assets that has a higher value than the price you can buy them for. The assets will continue to make you wealthier even though you do not put in any additional time and energy.
+
+- **Asset**
+Items of varies character that puts money in your pocket month after month as long as you own them. Stocks, bonds, renting out apartment units, are just a few examples of assets.   As a value investor you want to accumulate as many assets as possible.
+
+- **Liability**
+Items that takes money out of your pocket as long as you own them. A car or a boat is just two examples of liabilities. These items would consistently lose value, be costly in maintenance, fuel, insurance.
+
+- **Intrinsic Value**
+Simply put, it is the actual value of a security (a stock or bond) as opposed to the market price (or trading price of stock or bond). Your job as an intelligent investor is to determine an investments intrinsic value (follow the steps in this website and you should be on the right path).
+
+
 
 ### L 2 Ice cream business
 
