@@ -74,6 +74,10 @@ tags:                                               #标签
 
 - [Tobu - Life NCS Release](https://www.youtube.com/watch?v=OBwl2glmqC0)
 
+---
+
+---
+
 [【合集】AstroPython.cn Playlist 柔和缓慢 ](https://www.youtube.com/playlist?list=PLr8jHOwELd0QaG1qnJQ2aXUhNEEHvu3Lt)
 
 ### 热血沸腾
@@ -170,5 +174,9 @@ tags:                                               #标签
     + [Serenata Immortale](https://www.youtube.com/watch?v=36vvNkDeAyM)
     + [Victorious](https://www.youtube.com/watch?v=Ycp-qJ-U5JM)
     + [ Prometheus Rising](https://www.youtube.com/watch?v=JL9TG8QWfMc)
+
+---
+
+---
 
 [【合集】AstroPython.cn Playlist 激情澎湃 ](https://www.youtube.com/playlist?list=PLr8jHOwELd0RmY3bObC_yWJsq5r5prYmB)
