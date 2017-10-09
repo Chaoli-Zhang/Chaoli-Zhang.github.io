@@ -24,7 +24,7 @@ tags:                                               #标签
 1. <span style="color: green"> 柔和缓慢</span>：适合早上还能注意力集中的时候听
 2. <span style="color: orange"> 激情澎湃</span>：适合下午3-4点打瞌睡适合听
 
-为了方便小伙伴选取自己喜欢的音乐，我在每首歌曲加了YouTube的链接，只要点解就能试听（因为是YouTube视频，所以没有版权问题,大家放心。）
+为了方便小伙伴选取自己喜欢的音乐，我在每首歌曲加了YouTube的链接，只要点开就能试听（因为是YouTube视频，所以没有版权问题,大家放心。）
 
 好，废话少说，let's rock & roll !
 
