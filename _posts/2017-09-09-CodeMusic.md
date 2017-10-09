@@ -2,7 +2,7 @@
 layout:     post                                    # 使用的布局（不需要改）
 title:      Astro-programmer Playlist         # 标题
 subtitle:   写代码之前先给自己打一针鸡血吧            #副标题
-date:       2017-10-06                              # 时间
+date:       2017-10-09                              # 时间
 author:     Chaoli Zhang                            # 作者
 header-img: img/Tag-bg-hacker.jpg                  #这篇文章标题背景图片
 catalog: true                                       # 是否归档
