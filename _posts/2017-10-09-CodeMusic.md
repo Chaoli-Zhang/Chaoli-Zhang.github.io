@@ -9,20 +9,20 @@ catalog: true                                       # 是否归档
 published: true
 tags:                                               #标签
     - Code
-    - Muisc
+    - Music
 ---
 
 如果你有下面问题，那这篇文章里面的音乐（或许）可以帮的上忙：
 - 如果你下午坐那编程，半个小时都憋不出一行代码
 - 好不容易写出来了，第二天花了另外1小时去debug 🤣🤣🤣
-- 咖啡一杯又一杯咖啡的往上招呼，但还是不能专注工作，忍不住去看看Facebook，看股票，看帖子，看微信。。。
+- 咖啡一杯又一杯的往上招呼，但还是不能专注工作，忍不住去看看Facebook，看股票，看帖子，看微信。。。
 
 <span style="color:blue"> 这篇文章里面的音乐信息源于微信群AstroPython.cn里面小伙伴，在这里感谢大家积极提供资源😘。</span> 我把大家分享的音乐分成2部分：
 
 
 
 1. <span style="color: green"> 柔和缓慢</span>：适合早上还能注意力集中的时候听
-2. <span style="color: orange"> 激情澎湃</span>：适合下午3-4点打瞌睡适合听
+2. <span style="color: orange"> 激情澎湃</span>：适合下午3-4点打瞌睡听
 
 为了方便小伙伴选取自己喜欢的音乐，我在每首歌曲加了YouTube的链接，只要点开就能试听（因为是YouTube视频，所以没有版权问题,大家放心。）
 
