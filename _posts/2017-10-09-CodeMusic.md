@@ -22,7 +22,7 @@ tags:                                               #标签
 
 
 1. <span style="color: green"> 柔和缓慢</span>：适合早上还能注意力集中的时候听
-2. <span style="color: orange"> 激情澎湃</span>：适合下午3-4点打瞌睡听
+2. <span style="color: orange"> 热血沸腾</span>：适合下午3-4点打瞌睡听
 
 为了方便小伙伴选取自己喜欢的音乐，我在每首歌曲加了YouTube的链接，只要点开就能试听（因为是YouTube视频，所以没有版权问题,大家放心。）
 
@@ -179,4 +179,4 @@ tags:                                               #标签
 
 ---
 
-[【合集】AstroPython.cn Playlist 激情澎湃 ](https://www.youtube.com/playlist?list=PLr8jHOwELd0RmY3bObC_yWJsq5r5prYmB)
+[【合集】AstroPython.cn Playlist 热血沸腾 ](https://www.youtube.com/playlist?list=PLr8jHOwELd0RmY3bObC_yWJsq5r5prYmB)
