@@ -20,7 +20,7 @@ The video course can be found here: [MIT Finance course](https://www.youtube.com
 ### L 1  Introduction and Course Overview
 
 <!-- ![](/img/MIT_Finance/BL1.png?raw=true) -->
-![](/img/MIT_Finance/PDF/MIT15_401F08_lec01.pdf?raw=true)
+[Lecture Notes 1](/img/MIT_Finance/PDF/MIT15_401F08_lec01.pdf)
 
 
 ### <span style="color:purple"> 【Valuation】</span>
