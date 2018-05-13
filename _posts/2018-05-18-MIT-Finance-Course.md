@@ -19,8 +19,20 @@ The video course can be found here: [MIT Finance course](https://www.youtube.com
 
 ### L 1  Introduction and Course Overview
 
-<!-- ![](/img/MIT_Finance/BL1.png?raw=true) -->
-[Lecture Notes 1](/img/MIT_Finance/PDF/MIT15_401F08_lec01.pdf)
+[Lecture Notes](/img/MIT_Finance/PDF/MIT15_401F08_lec01.pdf)
+
+### L 2 - 3   Present Value Relations I & II
+
+[Lecture Notes](/img/MIT_Finance/PDF/MIT15_401F08_lec02.pdf)
+
+### L 4 - 7  Fixed-Income Securities I, II, III and IV
+
+[Lecture Notes](/img/MIT_Finance/PDF/MIT15_401F08_lec04.pdf)
+
+### L 8 Equities
+
+[Lecture Notes](/img/MIT_Finance/PDF/MIT15_401F08_lec07.pdf)
+
 
 
 ### <span style="color:purple"> 【Valuation】</span>
