@@ -2,7 +2,7 @@
 layout:     post                                    # 使用的布局（不需要改）
 title:      MIT Finance Course          # 标题
 subtitle:   Prof. Andrew Lo           #副标题
-date:       2017-09-04                              # 时间
+date:       2018-05-13                              # 时间
 author:     Chaoli Zhang                            # 作者
 header-img: img/Tag-bg-hacker.jpg                  #这篇文章标题背景图片
 catalog: true                                       # 是否归档
